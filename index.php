@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
-$tok = "Enter Your Bot Token!!";
-$owner_id = "Enter Your User Id!";
+$tok = "1539819072:AAEvMEihGXWrQ9-UvThozOKQXWlSQxK3KSY";
+$owner_id = "944454362";
 function botaction($method, $data){
 	global $tok;
 	global $dadel;
