@@ -18,10 +18,7 @@ function botaction($method, $data){
     $dueto = $dadel['description'];
     return json_decode($output,true);
 }
-//These Are The Needed Variables!! 😬
-
-
-😬
+//These Are The Needed Variables!! 😬😬
 $update = file_get_contents('php://input');
 $update = json_decode($update, true);
 
